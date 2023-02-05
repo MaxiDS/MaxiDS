@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Maxi</h1>
-<h3 align="center">Un apasionado por el analisis de datos y la programacion.</h3>
+<h3 align="center">Un apasionado por el análisis de datos y la programacion.</h3>
 
 - 🕵️‍♀️ Actualmente estoy en búsqueda de empleo en el mundo de los datos y esta es mi carta de presentación.  
 
