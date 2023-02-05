@@ -3,7 +3,7 @@
 
 - 📊 Actualmente estuve trabajando en el desarrollo de dashboards con PowerBI [Dashboard Olist](https://app.powerbi.com/view?r=eyJrIjoiYTU1ODc2ZDQtMTdhYy00MjUxLWIxMzgtYTBjZjhhNmU4MGZmIiwidCI6Ijg5ZDg2ZDQ1LWY5YzItNGYyZS04YjZjLTM0OThmZjliZjgyNiJ9&pageName=ReportSectionb71a57123be856cc5343)
 
-- 🌱 Actualmente estoy aprendiendo **Python, Estadistica y AWS**
+- 🌱 Ademas estoy aprendiendo **Python, Estadistica y AWS**
 
 - 🤝 En el ultimo trabajo grupal que participe tome el rol de analista en lo que fue una consultoria a la empresa Olist [Consultoria Olist](https://github.com/MaxiDS/Proyecto-Olist/blob/main/README.md)
 
