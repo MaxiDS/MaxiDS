@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, yo soy Maxi</h1>
 <h3 align="center">Un apasionado por el análisis de datos y la programacion.</h3>
 
-- 🕵️‍♀️ Actualmente estoy en búsqueda de empleo en el mundo de los datos y esta es mi carta de presentación.  
+- 🕵️‍♀️ Actualmente estoy en búsqueda de empleo en el mundo de los datos.
 
 - 📊 En mi ultimo proyecto estuve trabajando en el desarrollo de dashboards con PowerBI [Dashboard Olist](https://app.powerbi.com/view?r=eyJrIjoiYTU1ODc2ZDQtMTdhYy00MjUxLWIxMzgtYTBjZjhhNmU4MGZmIiwidCI6Ijg5ZDg2ZDQ1LWY5YzItNGYyZS04YjZjLTM0OThmZjliZjgyNiJ9&pageName=ReportSectionb71a57123be856cc5343)
 
