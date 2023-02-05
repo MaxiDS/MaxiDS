@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, yo soy Maxi</h1>
 <h3 align="center">Un apasionado por el analisis de datos y la programacion.</h3>
 
-- 📊 Actualmente estuve trabajando en el desarrollo de dashboards con PowerBI [Dashboard Olist](https://app.powerbi.com/view?r=eyJrIjoiYTU1ODc2ZDQtMTdhYy00MjUxLWIxMzgtYTBjZjhhNmU4MGZmIiwidCI6Ijg5ZDg2ZDQ1LWY5YzItNGYyZS04YjZjLTM0OThmZjliZjgyNiJ9&pageName=ReportSectionb71a57123be856cc5343)
+- 🕵️‍♀️ Actualmente estoy en búsqueda de empleo en el mundo de los datos y esta es mi carta de presentación.  
+
+- 📊 En mi ultimo proyecto estuve trabajando en el desarrollo de dashboards con PowerBI [Dashboard Olist](https://app.powerbi.com/view?r=eyJrIjoiYTU1ODc2ZDQtMTdhYy00MjUxLWIxMzgtYTBjZjhhNmU4MGZmIiwidCI6Ijg5ZDg2ZDQ1LWY5YzItNGYyZS04YjZjLTM0OThmZjliZjgyNiJ9&pageName=ReportSectionb71a57123be856cc5343)
 
 - 🌱 Ademas estoy aprendiendo **Python, Estadistica y AWS**
 
-- 🤝 En el ultimo trabajo grupal que participe tome el rol de analista en lo que fue una consultoria a la empresa Olist [Consultoria Olist](https://github.com/MaxiDS/Proyecto-Olist/blob/main/README.md)
+- 🤝 En el ultimo trabajo grupal que participe tome el rol de analista en lo que fue una consultoria a la empresa Olist [Consultoria Olist](https://youtu.be/FF1_tH3758U)
 
 - 🔭 Tambien realize trabajos de data engineer que me gustaron mucho! [ETL+FASTAPI+DOCKER En servicios de Streaming](https://github.com/MaxiDS/-Streaming_ETL_FastApi_Docker)
 
