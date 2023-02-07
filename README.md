@@ -19,7 +19,7 @@
 
 - 📄 Mi resumen profesional lo podes encontrar en Linkedin [https://www.linkedin.com/in/maxi-seidl/](https://www.linkedin.com/in/maxi-seidl/)
 
-- 🧉 Algunos datos curiosos **Me gusta mucho el mate y hablar con las personas o ayudarlas en programacion**
+- 🧉 Algunos datos curiosos **Me gusta mucho el mate, hablar con personas y ayudarlas en programacion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
