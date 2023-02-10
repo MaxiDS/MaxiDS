@@ -7,7 +7,8 @@
 
 - 🌱 Ademas estoy mejorando mis niveles de **Ingles, Estadistica y AWS**
 
-- 🤝 En el ultimo trabajo grupal que participe tome el rol de analista en lo que fue una consultoria a la empresa Olist [Consultoria Olist](https://youtu.be/FF1_tH3758U)
+- 🤝 En el ultimo trabajo grupal que participe tome el rol de analista en lo que fue una consultoria a la empresa Olist.  
+*youtube*: [Consultoria Olist](https://youtu.be/FF1_tH3758U), *repositorio*: [Consultoria Olist](https://github.com/MaxiDS/Proyecto-Olist)
 
 - 🔭 Tambien realize trabajos de data engineer que me gustaron mucho! [ETL+FASTAPI+DOCKER En servicios de Streaming](https://github.com/MaxiDS/-Streaming_ETL_FastApi_Docker)
 
